@@ -7,3 +7,6 @@
 
 # DeepCode cache
 /.dccache
+
+# data files used for development
+/data
